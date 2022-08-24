@@ -1,0 +1,22 @@
+{
+  "name": "readme-creator",
+  "version": "1.0.0",
+  "description": "creating a javascript appliction that dynamcially creates a readme file with user inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TateFoster/readme-creator.git"
+  },
+  "author": "Tate Foster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TateFoster/readme-creator/issues"
+  },
+  "homepage": "https://github.com/TateFoster/readme-creator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
