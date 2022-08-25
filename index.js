@@ -62,7 +62,7 @@ inquirer
 		},
 	])
 	.then((response) =>
-		fs.writeFile("README.md", createReadMe(response), (err) =>
+		fs.writeFile("./readme-output/README.md", createReadMe(response), (err) =>
 			err ? console.error(err) : console.log("README Created")
 		)
 	);
