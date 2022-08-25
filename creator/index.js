@@ -52,3 +52,57 @@ inquirer.prompt([
 		name: "email",
 	},
 ]);
+
+function createReadMe() {
+	return `# Project Title variable
+
+    ## Table of contents
+    >
+    >[Description](#description)
+    >
+    >[Installation](#installation)
+    >
+    >[Usage](#usage)
+    >
+    >[Licenses](#licenses)
+    >
+    >[Contributions](#contributions)
+    >
+    >[Tests](#tests)
+    >
+    >[Questions](#questions)
+    
+    ## Description
+    
+    description variable
+    
+    ## Usage
+    
+    usage variable
+    
+    ## Installation
+    
+    installation instruction variable
+    
+    ## License
+    
+    license variable + shield variable
+    
+    ## Contributions
+    
+    contributors variable
+    
+    ## Tests
+    
+    test variable
+    
+    ## Questions
+    
+    If you have any questions you can reach out on my GitHub at:
+    
+    [GitHub](github.com/github variable
+    
+    or email me at:
+    
+    [email variable](email variable`;
+}
