@@ -63,6 +63,9 @@ function createReadMe(input) {
 	return `# ${input.title}
 
 ## Table of contents
+
+---
+
 >
 >[Description](#description)
 >
@@ -80,35 +83,49 @@ function createReadMe(input) {
 
 ## Description
 
+---
+
 ${input.description}
 
 ## Usage
+
+---
 
 ${input.usage}
 
 ## Installation
 
+---
+
 ${input.installation}
 
 ## License
+
+---
 
 licensed with ${input.license} : ![License Badge](https://img.shields.io/badge/license-${input.license}-green)
 
 ## Contributions
 
+---
+
 ${input.contributors}
 
 ## Tests
+
+---
 
 ${input.tests}
 
 ## Questions
 
+---
+
 If you have any questions you can reach out on my GitHub at:
 
-[GitHub](github.com/${input.github})
+[GitHub](https://github.com/${input.github})
 
 or email me at:
 
-[Email](${input.email})`;
+[${input.email}](mailto:${input.email})`;
 }
