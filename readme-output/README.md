@@ -4,27 +4,26 @@
 
 ---
 
-> [Description](#description)
 >
-> [Installation](#installation)
+>[Description](#description)
 >
-> [Usage](#usage)
+>[Installation](#installation)
 >
-> [Licenses](#licenses)
+>[Usage](#usage)
 >
-> [Contributions](#contributions)
+>[Licenses](#licenses)
 >
-> [Tests](#tests)
+>[Contributions](#contributions)
 >
-> [Questions](#questions)
+>[Tests](#tests)
+>
+>[Questions](#questions)
 
 ## Description
 
 ---
 
-This is an application using Javascript that allows for the dynamic creation of a README.md file using user inputs. It uses the inquirer module to give a user prompts to answer then dynamically inserts those answers into a format and generates a README file in the readme-output folder.
-
-[README Creator](https://drive.google.com/file/d/1KLa_pgV74-e7aKv_lDnbrU2mEceshEW6/view)
+This is an application using Javascript that allows for the dynamic creation of a README.md file using user inputs. It uses the inquirer module to give a user prompts to answer then dynamically inserts those answers into a README file.
 
 ## Usage
 
@@ -48,9 +47,13 @@ Licensed with the ISC license : ![License Badge](https://img.shields.io/badge/li
 
 ---
 
+
+
 ## Tests
 
 ---
+
+
 
 ## Questions
 
