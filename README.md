@@ -1,4 +1,4 @@
-# ReadMe Creator
+# README Creator
 
 ## Table of contents
 
